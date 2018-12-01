@@ -1,0 +1,11 @@
+name: ml-lifecycle
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - seaborn
+  - plotly
+  - scipy
+  - rise
