@@ -9,4 +9,4 @@ A collection of notebooks for walking through the typical ML lifecycle from data
  2. Next
  
  ## Resources
- - (Forecasting time series with dynamic deep learning on AWS)[https://aws.amazon.com/blogs/machine-learning/forecasting-time-series-with-dynamic-deep-learning-on-aws/]
+ - [Forecasting time series with dynamic deep learning on AWS](https://aws.amazon.com/blogs/machine-learning/forecasting-time-series-with-dynamic-deep-learning-on-aws/)
