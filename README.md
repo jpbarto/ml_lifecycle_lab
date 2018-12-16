@@ -1,4 +1,7 @@
 # Machine learning lifecycle lab
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jpbarto/ml_lifecycle_lab/master)
+
 A collection of notebooks for walking through the typical ML lifecycle from data cleaning through to model hosting using Amazon SageMaker.
 
 A typical ML lifecycle will look something like...
@@ -36,3 +39,8 @@ For this collection of labs we will start by defining a business problem and the
  - [Automated data profiling example](http://nbviewer.jupyter.org/github/JosPolfliet/pandas-profiling/blob/master/examples/meteorites.ipynb)
  - [Automated data profiling for Spark](https://github.com/julioasotodv/spark-df-profiling)
  - [Machine Learning: The High Interest Credit Card of Technical Debt](https://ai.google/research/pubs/pub43146)
+
+---
+
+ ## Resources
+ - [Forecasting time series with dynamic deep learning on AWS](https://aws.amazon.com/blogs/machine-learning/forecasting-time-series-with-dynamic-deep-learning-on-aws/)
