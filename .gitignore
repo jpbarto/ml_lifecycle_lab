@@ -1,2 +1,3 @@
 data/*
 download_data.sh
+.ipynb_checkpoints/*
