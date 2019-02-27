@@ -24,13 +24,15 @@ For this collection of labs we will start by defining a business problem and the
  Table of contents
  ---
 
- 1. [Feature engineering](01 Feature engineering.ipynb)
+ 1. [Feature engineering](./01 Feature engineering.ipynb)
  This notebook walks through acquiring the data, cleaning it and then engineering a base feature set which can then be prepared for ML training.
- 1. [ML algorithm spot check](02 Algorithm spot check.ipynb)
+ 1. [ML algorithm spot check](./02 Algorithm spot check.ipynb)
  This notebook walks through transforming the cleansed data to assess the performance of many ML algorithms.
- 1. [HPO and training](03 Hyperparameters and training.ipynb)
+ 1. [Hyperparameter optimization](./03 Hyperparameter tuning.ipynb)
  This notebook walks through performing HPO on an algorithm and a subset of the feature set before performing a full scale training job.
- 1. [Hosting and usage](04 Hosting inference.ipynb)
+ 1. [Training your model](./04 Training.ipynb)
+ This notebook walks through performing a full scale training job of your model.
+ 1. [Hosting and usage](./05 Host and infer.ipynb)
  This notebook walks through how to host a trained model and use it to make predictions.
  
  ## Further reading
